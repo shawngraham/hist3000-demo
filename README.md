@@ -1,4 +1,4 @@
 # hist3000-demo
 a demo repo for what I want y'all doing in class
 
-you can organize your work into separate repos by **week** or by **module** as suits you.
+you can organize your work into separate repos by **week** or by **module** as suits you, or individual repos per week, etc. In this repo, as an example, I am making individual folders for each week.
